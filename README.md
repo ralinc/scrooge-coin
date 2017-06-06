@@ -1,0 +1,2 @@
+# scrooge-coin
+Scrooge Coin
